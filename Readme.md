@@ -1,6 +1,6 @@
-<h1 align = "left">
+<h3 align = "left">
  * Projeto ROCKETSHOES desenvolviedo durante o curso Ignite da Rocketseat 
-</h1>
+</h3>
 
 <p align="center">
   <img alt="Interface da aplicação" src="./github/captura1.png" width="100%">
